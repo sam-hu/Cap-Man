@@ -27,5 +27,9 @@ score. Powerups will spawn at random in the board.
 
 About This Game
 --------------------------------------------------------------------------------
-This is my first ever CS project, developed as my final project for AP Computer 
-Science. The game can get slow if there are many bugs on-screen at once. 
+This is my first ever CS project, developed in Spring 2016 as my final project 
+for AP Computer Science. It's far from perfect, but an achievement nonetheless.
+
+Known Issues
+--------------------------------------------------------------------------------
+The game can get slow if there are many bugs on-screen at once. 
