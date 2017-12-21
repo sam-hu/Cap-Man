@@ -15,11 +15,17 @@ all of the caps, or you are eaten by a Bug.
 
 The enemy bugs start off orange. In this stage, they wander around the map 
 blindly. After an amount of time, the orange bugs will turn blue. Blue bugs are 
-able to spawn more orange bugs at random. After another amount of time, the blue
-bug will die and disappear off the map.
+able to spawn more orange bugs at random, and will pursue the Boy more 
+aggressively. After another amount of time, the blue bug will die and disappear
+off the map.
 
 There are powerups scattered across the map that will give you an advantage.
 There are +10 powerups, which will add 10 to your score. There are also batteries.
 After picking up a battery, the Boy will turn red for a short period of time. 
 During this time the Boy becomes invincible and can eat bugs to increase his 
 score. Powerups will spawn at random in the board.
+
+About This Game
+--------------------------------------------------------------------------------
+This is my first ever CS project, developed as my final project for AP Computer 
+Science. The game can get slow if there are many bugs on-screen at once. 
